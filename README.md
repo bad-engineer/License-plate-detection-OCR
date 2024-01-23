@@ -10,7 +10,7 @@ scipy\
 matplotlib
 # Information About Trained Model
 ## Data Collection
-* Used https://www.kaggle.com/datasets to get Data
+* Used https://universe.roboflow.com to get the Data
 # Training and Testing
 ## Testing Procedure...
 # Performance
